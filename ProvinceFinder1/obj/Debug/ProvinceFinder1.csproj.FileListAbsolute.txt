@@ -1,0 +1,10 @@
+C:\Users\Nv800\source\repos\ProvinceFinder1\ProvinceFinder1\bin\Debug\ProvinceFinder1.exe.config
+C:\Users\Nv800\source\repos\ProvinceFinder1\ProvinceFinder1\bin\Debug\ProvinceFinder1.exe
+C:\Users\Nv800\source\repos\ProvinceFinder1\ProvinceFinder1\bin\Debug\ProvinceFinder1.pdb
+C:\Users\Nv800\source\repos\ProvinceFinder1\ProvinceFinder1\obj\Debug\ProvinceFinder1.csproj.AssemblyReference.cache
+C:\Users\Nv800\source\repos\ProvinceFinder1\ProvinceFinder1\obj\Debug\ProvinceFinder1.Form1.resources
+C:\Users\Nv800\source\repos\ProvinceFinder1\ProvinceFinder1\obj\Debug\ProvinceFinder1.Properties.Resources.resources
+C:\Users\Nv800\source\repos\ProvinceFinder1\ProvinceFinder1\obj\Debug\ProvinceFinder1.csproj.GenerateResource.cache
+C:\Users\Nv800\source\repos\ProvinceFinder1\ProvinceFinder1\obj\Debug\ProvinceFinder1.csproj.CoreCompileInputs.cache
+C:\Users\Nv800\source\repos\ProvinceFinder1\ProvinceFinder1\obj\Debug\ProvinceFinder1.exe
+C:\Users\Nv800\source\repos\ProvinceFinder1\ProvinceFinder1\obj\Debug\ProvinceFinder1.pdb
